@@ -1,0 +1,18 @@
+body {
+  background-color: #111827 !important;
+  color: #ffffff !important;
+}
+
+.search-input::placeholder {
+  color: white !important;
+  opacity: 1;
+}
+
+thead,
+tbody,
+tr,
+td,
+th {
+  background-color: #0c1831 !important;
+  color: white !important;
+}
